@@ -10,7 +10,7 @@ body {
 #content { 
 
   width: 100%;
-  padding: 0px;
+  padding: 20px;
   text-align: left;
   background-color: #fff;	
   overflow: auto;
@@ -18,7 +18,7 @@ body {
 
 h1 {
 	font-family: Arial;
-	text-shadow: 3px 3px 0px gray;
+	text-shadow: 1px 1px 0px black;
 	font-size: 20px;
 	clear: both;
 	margin: 0px;
